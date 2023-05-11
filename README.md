@@ -1,0 +1,1 @@
+# microservice_for_partner_project-
